@@ -30,7 +30,7 @@ analysis process.
 
 ### Steps
 
-1. Download relevant information
+1. Download relevant information (Done)
 2. Familiarize myself with the data
 3. Pose some questions that can be answered by simple analysis
 4. Consider what information I will need to do said analysis
@@ -44,8 +44,16 @@ sources. (Contained within this README)
 
 ## File Descriptions
 
-Text.
+* ./data/ contains the various datasets
+* ./examples/ contains an example of the data cleaning process
+* ./Analysis.ipynb is a Jupyter notebook containing the work I have done with
+the Bike_Share_Analysis.ipynb
+* ./Bike_Share_Analysis.ipynb is a Jupyter notebook containing the "skeleton"
+code for this project.
 
 ## References & Citations
 
-Text.
+1. Data provided by:
+    * [capitalbikeshare.com](https://www.capitalbikeshare.com/system-data)
+    * [divvybikes.com](https://www.divvybikes.com/system-data)
+    * [citibikenyc.com](https://www.citibikenyc.com/system-data)

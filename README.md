@@ -31,10 +31,10 @@ analysis process.
 ### Steps
 
 1. Download relevant information (Done)
-2. Familiarize myself with the data
-3. Pose some questions that can be answered by simple analysis
-4. Consider what information I will need to do said analysis
-5. Carry out analysis
+2. Familiarize myself with the data (Done)
+3. Pose some questions that can be answered by simple analysis (Done)
+4. Consider what information I will need to do said analysis (Done)
+5. Carry out analysis (Done)
 6. Convert ipynb to PDF - nbconvert package
 
 ### Submission

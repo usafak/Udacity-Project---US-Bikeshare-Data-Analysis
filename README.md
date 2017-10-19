@@ -46,10 +46,11 @@ sources. (Contained within this README)
 
 * ./data/ contains the various datasets
 * ./examples/ contains an example of the data cleaning process
-* ./Analysis.ipynb is a Jupyter notebook containing the work I have done with
-the Bike_Share_Analysis.ipynb
+* ./2016_US_Bikeshare_Analysis.ipynb is a Jupyter notebook containing the work I have done
+* ./2016_US_Bikeshare_Analysis.pdf is an exported version of the above file
+using LaTeX
 * ./Bike_Share_Analysis.ipynb is a Jupyter notebook containing the "skeleton"
-code for this project.
+code for this project
 
 ## References & Citations
 
